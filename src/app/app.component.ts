@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  family = 'God is really Great';
+  family = 'God is really really Great';
 }
